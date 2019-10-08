@@ -1,4 +1,4 @@
-# kuissatupboti2a
+# Kuis 1 PBO TI2A
 
 Buatlah project dengan kode sesuai soal dibawah ini!
 
